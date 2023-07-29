@@ -1,0 +1,8 @@
+C:\Users\bixle\Things\projects\visual studio\logic gate language interpreter\logic gate language interpreter\bin\Debug\logic gate language interpreter.exe.config
+C:\Users\bixle\Things\projects\visual studio\logic gate language interpreter\logic gate language interpreter\bin\Debug\logic gate language interpreter.exe
+C:\Users\bixle\Things\projects\visual studio\logic gate language interpreter\logic gate language interpreter\bin\Debug\logic gate language interpreter.pdb
+C:\Users\bixle\Things\projects\visual studio\logic gate language interpreter\logic gate language interpreter\obj\Debug\logic gate language interpreter.csproj.AssemblyReference.cache
+C:\Users\bixle\Things\projects\visual studio\logic gate language interpreter\logic gate language interpreter\obj\Debug\logic gate language interpreter.csproj.SuggestedBindingRedirects.cache
+C:\Users\bixle\Things\projects\visual studio\logic gate language interpreter\logic gate language interpreter\obj\Debug\logic gate language interpreter.csproj.CoreCompileInputs.cache
+C:\Users\bixle\Things\projects\visual studio\logic gate language interpreter\logic gate language interpreter\obj\Debug\logic gate language interpreter.exe
+C:\Users\bixle\Things\projects\visual studio\logic gate language interpreter\logic gate language interpreter\obj\Debug\logic gate language interpreter.pdb
