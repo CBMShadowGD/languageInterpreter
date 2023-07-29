@@ -1,0 +1,71 @@
+This is a basic language idea that I came up with.
+
+You must separate everything with spaces so the interpeter can differentiate the inputs.
+
+You can comment with '//' for example(separate with a space):
+
+// Comment
+
+Keywords:
+
+
+&: and gate, will be true true if both inputs are true
+a = true & false
+print a
+'false'
+
+/: or gate, will be true true if one or both inputs are true
+a = true / false
+print a
+'true'
+
+%: xor gate, will be true true if one but not both is true
+a = true % false
+print a
+'true'
+
+!&: not and gate, opposite of and
+a = true !& false
+print a
+'true'
+
+!/: not or gate, opposite of or
+a = true !/ false
+print a
+'false'
+
+!%: not xor gate, opposite of xor
+a = true !% false
+print a
+'false'
+
+!: lets you "flip" a bool:
+
+a = true
+! a
+print a
+'false'
+
+
+print: lets you print true/false either as true/false or a function
+you can perform an operation and use not here:
+
+print true
+'true'
+print ! true
+'false'
+print true & true
+'true'
+
+
+variables:
+
+you must declare a variable before you can use it:
+
+var a = true
+a = false
+
+you can also do operations here:
+
+var a = true / false
+a = true !% false

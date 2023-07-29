@@ -1,0 +1,10 @@
+var a = true
+var b = false
+var c = a % b
+print c
+! c
+print c
+c = a / b
+print c
+
+// epic comment
